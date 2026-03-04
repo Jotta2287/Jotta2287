@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Sergio Júnior</h1>
+<h3 align="center">Estudante de Cibersegurança</h3>
 
-<!--
-**Jotta2287/Jotta2287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Visualizações&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+- 🌱 Atualmente aprendendo: **Pentest**
+- 🎯 Objetivo: Desobrir vulnerabilidades na rede
+- 📚 Foco atual: Criação de ferramentas
+- ⚡ Sempre buscando aprender algo novo
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 🎯 Metas para 2026
+
+- ✅ Criar meus primeiros projetos em Python
+- 📚 Aprender a ser um hacker ético
+- 🚀 Publicar projetos no GitHub
+- 🧠 Melhorar minha lógica de programação
+
+---
+
+<p align="center">
+  💙 Obrigado por visitar meu perfil!
+</p>
