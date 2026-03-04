@@ -20,7 +20,8 @@
 </p>
 
 <p align="left">
-  🔎 Nmap (Network Scanner)
+  🔎 Nmap (Network Scanner) <br>
+  🐉 Kali Linux
 </p>
 
 ---
