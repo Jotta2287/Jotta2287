@@ -1,9 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Sergio Júnior</h1>
 <h3 align="center">Estudante de Cibersegurança</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Visualizações&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 ---
 
