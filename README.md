@@ -19,6 +19,10 @@
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
+<p align="left">
+  🔎 Nmap (Network Scanner)
+</p>
+
 ---
 
 ## 🎯 Metas para 2026
